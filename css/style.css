@@ -1,0 +1,47 @@
+h1{
+text-align: center;
+font-size: 30px;
+font-family: Calibri Light;
+}
+
+h3{
+text-align:center;
+}
+
+ul li {
+display: inline; 
+width: 33%;
+float: left;
+}
+
+ul li div { 
+text-align: center;
+}
+
+ul li img { 
+  padding: 2px 2px 2px 2px;
+}
+
+ul li h2 { 
+text-align: center;
+}
+
+ul li p { 
+text-align: center;
+margin: 0 auto;
+font-weight: bold;
+width: 100%;
+padding: 3px 2px 2px 2px;
+}
+
+p{
+	margin: 10px;
+	font-family: Calibri Light;
+	font-size: 18px;
+
+}
+
+#res {
+
+	font-family: Arial;
+}
