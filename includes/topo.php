@@ -22,7 +22,7 @@
                 <ul class="nav nav-pills nav-justified">
                 <li><a href="index.php"><span></span> Home</a></li>
                 <li><a href="exibir_contas.php"><span ></span> Visualizar contas</a></li>
-                <li><a href="criar_recebedor.php"><span ></span> Visualizar Recebedores</a></li>
+                <li><a href="exibir_recebedores.php"><span ></span> Visualizar Recebedores</a></li>
 
                 </ul>
             </div><!-- /.navbar-collapse -->   
